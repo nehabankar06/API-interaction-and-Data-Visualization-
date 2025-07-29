@@ -35,7 +35,6 @@ The visualization phase uses Matplotlib, a popular Python plotting library, to c
 A line plot is generated where:
 
 The X-axis represents dates.
-
 The Y-axis represents the number of accidents per day.
 
 The plot uses orange-colored lines with circular markers (marker='o', color='orange') to highlight individual data points for each date.
@@ -50,7 +49,8 @@ Grid lines are added for better visual guidance.
 
 The plt.tight_layout() method ensures that labels and titles are adjusted within the plot area, preventing clipping of text.
 
-
 Finally, plt.show() displays the graph.
 
+#OUTPUT 
 
+![Image](https://github.com/user-attachments/assets/5af2f865-ff25-41c0-b88c-a4b462e91481)
